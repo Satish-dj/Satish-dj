@@ -81,8 +81,8 @@
 
 ## 📂 Featured Projects
 
-🔹 **Retail Sales Dashboard (Power BI)**
-→ Analyzed 10K+ records, built KPI dashboards for business insights
+🔹 **Ecommerce-Sales-Analytics-Dashboard (Excel,SQL,PowerBI,Tableau)**
+→ Business Intelligence project focused on sales analysis, customer insights, KPI tracking, and data-driven decision making.
 
 🔹 **Customer Churn Analysis**
 → Identified churn patterns using SQL & Python
